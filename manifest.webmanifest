@@ -1,6 +1,6 @@
 {
-  "name": "Mi Armario",
-  "short_name": "Mi Armario",
+  "name": "Tu Rinconcito",
+  "short_name": "Tu Rinconcito",
   "lang": "es",
   "start_url": "./index.html",
   "scope": "./",
@@ -19,6 +19,12 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
+    },
+    {
+      "src": "isotipo-tu-rinconcito.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
     }
   ]
 }
