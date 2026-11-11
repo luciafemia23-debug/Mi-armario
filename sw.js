@@ -1,5 +1,5 @@
-const CACHE='mi-armario-beta-153';
-const ASSETS=['./manifest.webmanifest','./icon-192.png','./icon-512.png'];
+const CACHE='mi-armario-beta-154';
+const ASSETS=['./manifest.webmanifest','./icon-192.png','./icon-512.png','./isotipo-tu-rinconcito.svg'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)).then(()=>self.skipWaiting()));
 });
