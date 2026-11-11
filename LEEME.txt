@@ -1,0 +1,8 @@
+MI ARMARIO — BETA DE PRUEBA
+
+Esta es una web instalable (PWA), no un archivo .ipa ni una app publicada en App Store.
+Para instalarla en un iPhone es necesario publicarla en una URL HTTPS.
+Puedes publicar la carpeta completa mediante Netlify Drop u otro alojamiento HTTPS.
+Luego abre la web en Safari > Compartir > Añadir a pantalla de inicio.
+Los datos se guardan SOLO en el navegador y dispositivo actual. No subas prendas importantes sin hacer copias de seguridad.
+Las fotos de ejemplo son ficticias.
